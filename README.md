@@ -1,1 +1,1 @@
-# .github
+# Laravel Cashier Provider
