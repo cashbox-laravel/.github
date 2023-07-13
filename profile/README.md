@@ -1,1 +1,1 @@
-![cashier provider](https://preview.dragon-code.pro/cashier-provider/payments.svg?brand=laravel)
+![cashier provider](https://preview.dragon-code.pro/cashbox/payments.svg?brand=laravel)
