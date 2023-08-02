@@ -6,12 +6,13 @@ We believe that development should be an enjoyable, creative experience to be tr
 
 The project contains some ready-made solutions of payment systems, but you can offer your own.
 
-- [Cash](https://github.com/cashbox-laravel/cash)
-- [Sber QR](https://github.com/cashbox-laravel/sber-qr)
-- [Sber Online](https://github.com/cashbox-laravel/sber-online) [WIP]
-- [Tinkoff QR](https://github.com/cashbox-laravel/tinkoff-qr)
-- [Tinkoff Online](https://github.com/cashbox-laravel/tinkoff-online)
-- [Tinkoff Credit](https://github.com/cashbox-laravel/tinkoff-credit)
+- [x] [Cash](https://github.com/cashbox-laravel/cash)
+- [ ] [Sber QR](https://github.com/cashbox-laravel/sber-qr)
+- [ ] [Sber Online](https://github.com/cashbox-laravel/sber-online)
+- [ ] [Tinkoff QR](https://github.com/cashbox-laravel/tinkoff-qr)
+- [ ] [Tinkoff Online](https://github.com/cashbox-laravel/tinkoff-online)
+- [x] [Tinkoff Credit](https://github.com/cashbox-laravel/tinkoff-credit)
+- [x] [Tinkoff Auth](https://github.com/cashbox-laravel/tinkoff-auth)
 
 We also have Telegram channels where we post announcements:
 
