@@ -9,7 +9,7 @@ The project contains some ready-made solutions of payment systems, but you can o
 - [x] [Cash](https://github.com/cashbox-laravel/cash)
 - [ ] [Sber QR](https://github.com/cashbox-laravel/sber-qr)
 - [ ] [Sber Online](https://github.com/cashbox-laravel/sber-online)
-- [ ] [Tinkoff QR](https://github.com/cashbox-laravel/tinkoff-qr)
+- [x] [Tinkoff QR](https://github.com/cashbox-laravel/tinkoff-qr)
 - [x] [Tinkoff Online](https://github.com/cashbox-laravel/tinkoff-online)
 - [x] [Tinkoff Credit](https://github.com/cashbox-laravel/tinkoff-credit)
 - [x] [Tinkoff Auth](https://github.com/cashbox-laravel/tinkoff-auth)
