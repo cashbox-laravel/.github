@@ -7,6 +7,7 @@ We believe that development should be an enjoyable, creative experience to be tr
 The project contains some ready-made solutions of payment systems, but you can offer your own.
 
 - [x] [Cash](https://github.com/cashbox-laravel/cash)
+- [ ] [Sber Auth](https://github.com/cashbox-laravel/sber-auth)
 - [ ] [Sber QR](https://github.com/cashbox-laravel/sber-qr)
 - [ ] [Sber Online](https://github.com/cashbox-laravel/sber-online)
 - [x] [Tinkoff QR](https://github.com/cashbox-laravel/tinkoff-qr)
