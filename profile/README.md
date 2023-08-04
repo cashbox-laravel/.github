@@ -14,7 +14,7 @@ The project contains some ready-made solutions of payment systems, but you can o
 - [x] [Tinkoff Credit](https://github.com/cashbox-laravel/tinkoff-credit)
 - [x] [Tinkoff Auth](https://github.com/cashbox-laravel/tinkoff-auth)
 - [ ] [Template Driver](https://github.com/cashbox-laravel/driver)
-- [ ] [Template Driver Auth](https://github.com/cashbox-laravel/driver-auth)
+- [x] [Template Driver Auth](https://github.com/cashbox-laravel/driver-auth)
 - [ ] [Documentation](https://cashbox.city)
 
 We also have Telegram channels where we post announcements:
