@@ -1,4 +1,4 @@
-![cashbox](https://preview.dragon-code.pro/cashbox/payments.svg?brand=laravel&preposition=with)
+![cashbox](https://preview.dragon-code.pro/cashbox/accept-payments.svg?brand=laravel&preposition=with)
 
 `Cashbox` provides an expressive and user-friendly interface for managing billing and payment verification services.
 We believe that development should be an enjoyable, creative experience to be truly rewarding.
